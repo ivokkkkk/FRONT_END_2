@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+}
+h1{
+    color: rgb(3, 252, 24);
+    text-decoration-line:;
+    text-align: center;
+    font-size: 50px;
+    
+}
+h2{
+    color: rgb(50, 252, 0);
+    text-decoration-line: line-through;
+}
+p{
+    color: rgb(0, 0, 0);
+}
+
+img{
+    width: 150px;
+}
+
